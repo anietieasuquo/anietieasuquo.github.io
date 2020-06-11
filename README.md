@@ -1,12 +1,14 @@
 # Anietie Asuquo
 
-This is the source for my personal site hosted at https://anietieasuquo.com
+This is the source for my personal site hosted at <https://anietieasuquo.com>
+
+![Preview](/images/site-preview.png "Preview")
 
 ## Tech Stack
 
-> HTML
-> CSS
-> JS
+- HTML
+- CSS
+- JS
 
 ## License
 
