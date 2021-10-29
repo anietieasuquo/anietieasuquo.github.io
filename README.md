@@ -1,6 +1,8 @@
 # Anietie Asuquo
 
-This is the source for my personal web page, hosted at <https://anietieasuquo.com>
+This is the source for my personal web page, hosted at <https://anietieasuquo.com>.
+
+Designed to be simple.
 
 ![Preview](/static/media/preview.png "Preview")
 
