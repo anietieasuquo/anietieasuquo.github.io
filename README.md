@@ -11,6 +11,8 @@ My contact details are on the web page, feel free to reach out.
 ## Tech Stack
 - React
 - TypeScript
+- SASS
+- Bootstrap 5
 - WebPack
 
 **Note: This repository only contains the final production build of the project. The original source is maintained in a separate repository.**
