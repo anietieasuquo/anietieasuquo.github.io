@@ -4,6 +4,8 @@ This is the source for my personal web page, hosted at <https://anietieasuquo.co
 
 Designed to be simple.
 
+My contact details are on the web page, feel free to reach out.
+
 ![Preview](/static/media/preview.png "Preview")
 
 ## Tech Stack
