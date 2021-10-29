@@ -2,7 +2,7 @@
 
 This is the source for my one-page personal site, hosted at <https://anietieasuquo.com>
 
-![Preview](/public/img/preview.png "Preview")
+![Preview](/static/media/preview.png "Preview")
 
 ## Tech Stack
 - React
