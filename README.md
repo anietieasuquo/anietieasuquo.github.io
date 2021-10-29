@@ -8,7 +8,10 @@ Designed to be simple.
 
 ## Tech Stack
 - React
-- **Note: This repository only contains the final production build of the project. The original source is maintained in a separate repository.**
+- TypeScript
+- WebPack
+
+**Note: This repository only contains the final production build of the project. The original source is maintained in a separate repository.**
 
 ## License
 
