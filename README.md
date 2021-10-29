@@ -2,7 +2,7 @@
 
 This is the source for my personal web page, hosted at <https://anietieasuquo.com>.
 
-Designed to be simple.
+Designed to be simple and concise.
 
 My contact details are on the web page, feel free to reach out.
 
